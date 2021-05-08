@@ -12,4 +12,4 @@ My name's Lucas and I'm a software developer/elctronics hobbyist. I'm a professi
 
 
 ## ⚡ My Stats
-![Filtered's Github Stats](https://github-readme-stats.vercel.app/api?username=FilteredScriptRBX&show_icons=true&include_all_commits=true)
+![Filtered's Github Stats](https://github-readme-stats.vercel.app/api?username=lucaskapobassis&show_icons=true&include_all_commits=true)
