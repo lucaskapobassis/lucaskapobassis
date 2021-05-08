@@ -1,5 +1,5 @@
 # Hey There! <img src="https://github.com/LucasKapobassis/LucasKapobassis/blob/main/master/wave.gif?raw=true" width="30px">
-My name's Lucas and I'm a software developer/elctronics hobbyist. I'm a professional ROBLOX developer, with over 50M+ combined visits, fluent in Rbxlua and am currently building my knowledge on XCode. I'm from Melbourne, Australia, and am always looking for oppurtunities.
+My name's Lucas and I'm a software developer/elctronics hobbyist. I'm a professional ROBLOX developer, known by the name **FilteredScript**, with over 50M+ combined visits, fluent in Rbxlua and am currently building my knowledge on XCode. I'm from Melbourne, Australia, and am always looking for oppurtunities.
 
 ## 🔧 Software & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white)
