@@ -2,7 +2,7 @@
 My name's Lucas and I'm a software developer/elctronics hobbyist. I'm a ROBLOX developer, known by the name **FilteredScript**, who has achieved over 50M+ game visits. 
 
 ## 🔧 Software & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=Apple&logoColor=white)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white)
