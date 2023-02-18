@@ -1,5 +1,5 @@
 # Hey There! <img src="https://github.com/LucasKapobassis/LucasKapobassis/blob/main/master/wave.gif?raw=true" width="30px">
-My name's Lucas and I'm a software developer/elctronics hobbyist. I'm a ROBLOX developer, known by the name **FilteredScript**, who has achieved over 50M+ game visits. 
+My name's Lucas and I'm a software developer/elctronics hobbyist. I'm a ROBLOX developer, known by the name **FilteredScript**, with 100M+ game visits across the games I've made. 
 
 ## 🔧 Software & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white)
